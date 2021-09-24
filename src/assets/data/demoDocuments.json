@@ -1,0 +1,11 @@
+{
+  "name": "Parent Folder 1",
+  "children": [
+    {
+      "name": "Child Folder 1"
+    },
+    {
+      "name": "Child Folder 2"
+    }
+  ]
+}

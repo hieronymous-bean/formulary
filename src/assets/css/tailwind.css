@@ -1,0 +1,6 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('../fonts/Open_Sans/open-sans.css');
